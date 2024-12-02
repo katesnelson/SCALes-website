@@ -1,6 +1,6 @@
 ---
 title: Denise Chavez Reyes
-role: Graduate Research Assistant
+role: PhD Candidate, Graduate Research Assistant
 avatar_filename: avatar.jpeg
 interests:
   - Climate Change
@@ -22,4 +22,4 @@ superuser: false
 user_groups:
   - Current Members
 ---
-Denise is a PhD student in the Department of Geography and Geospatial Sciences at Kansas State University. Her research attempts to assess the ability of agricultural communities to cope to natural hazards-adaptive capacity. Denise has had diverse research interests, from characterizing indoor and outdoor air-quality with a GPS enabled monitor to identifying factors that motivate minority groups to pursue higher education. Through her diverse research attempts, she has always been determined to contribute to a healthier and stronger society by advocating for policy change and community education opportunities.
+Denise is a PhD candidate in the Department of Geography and Geospatial Sciences at Kansas State University. Her research attempts to assess the ability of agricultural communities to cope to natural hazards-adaptive capacity. Denise has had diverse research interests, from characterizing indoor and outdoor air-quality with a GPS enabled monitor to identifying factors that motivate minority groups to pursue higher education. Through her diverse research attempts, she has always been determined to contribute to a healthier and stronger society by advocating for policy change and community education opportunities.
