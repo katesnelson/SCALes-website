@@ -11,4 +11,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-C﻿heck out Michael's recent publication in the highly ranked Journal of Cleaner Production, [Projecting biodegradable mulch suitability: A GIS multicriteria analysis](https://doi.org/10.1016/j.jclepro.2025.145565). The paper explores how biophysical suitability of biodegradable plastic mulches for agricultural uses may change over the course of the century. Congratulations Michael!a
+C﻿heck out Michael's recent publication in the highly ranked Journal of Cleaner Production, [Projecting biodegradable mulch suitability: A GIS multicriteria analysis](https://doi.org/10.1016/j.jclepro.2025.145565). The paper explores how biophysical suitability of biodegradable plastic mulches for agricultural uses may change over the course of the century. Congratulations Michael!
