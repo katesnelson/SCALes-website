@@ -1,6 +1,6 @@
 ---
 title: Michael Madin, PhD
-role: Postdoc at Kansas State University
+role: PhD Student, Graduate Research Assistant
 avatar_filename: avatar.jpg
 interests:
   - sustainable agriculture
