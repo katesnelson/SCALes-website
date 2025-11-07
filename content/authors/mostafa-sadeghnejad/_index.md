@@ -1,7 +1,7 @@
 ---
 title: Mostafa Sadeghnejad
 role: Graduate Research Assistant
-avatar_filename: avatar.jpeg
+avatar_filename: ""
 interests:
   - Remote Sensing
   - Terrestrial Ecology
