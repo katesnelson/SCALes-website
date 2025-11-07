@@ -1,7 +1,7 @@
 ---
 title: Michael Madin, PhD
 role: PhD Student, Graduate Research Assistant
-avatar_filename: avatar.jpg
+avatar_filename: ""
 interests:
   - sustainable agriculture
 social:
