@@ -1,6 +1,6 @@
 ---
-title: Michael Madin
-role: PhD Candidate, Graduate Research Assistant
+title: Michael Madin, PhD
+role: Postdoc at Kansas State University
 avatar_filename: avatar.jpg
 interests:
   - sustainable agriculture
@@ -20,6 +20,6 @@ education:
       year: 2017
 superuser: false
 user_groups:
-  - Current Members
+  - Alumni
 ---
-Michael is a PhD candidate in the Department of Geography and Geospatial Sciences at Kansas State University. His research focuses on understanding landscape simplification or agriculture diversity and sustainable agriculture production. Michael has a BSc. in Development Planning from Kwame Nkrumah University of Science and Technology, Kumasi, Ghana and an M.A. in Geography from University of Denver, CO, USA. His bachelor’s thesis focused on the role of international development partners in achieving sustainable livelihoods outcomes among farmers in Northern Ghana. Michael also studied climate change and seed security among smallholder farmers in Northern Ghana for his master’s thesis. Michael was a member of the Rural Resource Resiliency NSF Graduate Research Traineeship program and his PhD research seeks to incorporate multidisciplinary (i.e., geography, climate change, policy, sustainability and resiliency and others) perspectives and methodical frameworks. Michael is result-oriented and enjoys reading and playing soccer.
+Dr. Michael Madin is a postdoc at Kansas State University. He completed his PhD in the Department of Geography and Geospatial Sciences at Kansas State University in 2025. His research focuses on understanding landscape simplification or agriculture diversity and sustainable agriculture production. Michael has a BSc. in Development Planning from Kwame Nkrumah University of Science and Technology, Kumasi, Ghana and an M.A. in Geography from University of Denver, CO, USA. His bachelor’s thesis focused on the role of international development partners in achieving sustainable livelihoods outcomes among farmers in Northern Ghana. Michael also studied climate change and seed security among smallholder farmers in Northern Ghana for his master’s thesis. Michael was a member of the Rural Resource Resiliency NSF Graduate Research Traineeship program and his PhD research seeks to incorporate multidisciplinary (i.e., geography, climate change, policy, sustainability and resiliency and others) perspectives and methodical frameworks. Michael is result-oriented and enjoys reading and playing soccer.
