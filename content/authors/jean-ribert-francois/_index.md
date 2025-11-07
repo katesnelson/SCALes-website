@@ -1,6 +1,6 @@
 ---
-title: Jean Ribert Francois
-role: PhD Candidate, Graduate Research Assistant
+title: Jean Ribert Francois, PhD
+role: Postdoctoral Fellow
 avatar_filename: avatar.jpg
 bio: My research interests include rural community development and change and
   transformation in community-based systems.
