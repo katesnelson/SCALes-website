@@ -1,5 +1,5 @@
 ---
-title: Amariah Fischer
+title: Amariah Fischer, PhD
 role: Graduate Research Assistant
 avatar_filename: ""
 interests:
