@@ -19,4 +19,4 @@ superuser: false
 user_groups:
   - Alumni
 ---
-Mobashsira completed her MS in Geography at Kansas State University in 2024. She is interested in remote sensing, terrestrial ecology, and landscape change. She worked as part of the SCALes team in 2023 to develop datasets of near-field diversity for experimental sites in Kansas.
+Mobashsira is PhD at Penn State University. She completed her MS in Geography at Kansas State University in 2024. She is interested in remote sensing, terrestrial ecology, and landscape change. She worked as part of the SCALes team in 2023 to develop datasets of near-field diversity for experimental sites in Kansas.
